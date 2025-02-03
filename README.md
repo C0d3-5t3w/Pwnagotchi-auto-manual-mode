@@ -9,3 +9,7 @@ Because i forget my little dude is with me when I get in the car and travel to f
 # Add this to config.toml
 
 main.plugins.auto_manual_mode.enabled = true
+
+# And the link to the repo in config.toml amongst the list:
+
+https://github.com/C0d3-5t3w/Pwnagotchi-auto-manual-mode

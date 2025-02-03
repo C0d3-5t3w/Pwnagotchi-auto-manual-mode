@@ -22,9 +22,9 @@ class AutoManualMode(BasePlugin):
         if missed >= 15 and not self.manual_mode_triggered:
             self.log.info("15 missed handshakes detected. Switching to manual mode.")
             self.switch_to_manual(agent)
-            self.manual_mode_triggered = True  # Prevent repeated switches
+            self.manual_mode_triggered = True  # Prevent repeated switches.
 
-        # Reset if missed handshakes drop below threshold
+        # Reset if missed handshakes drop below threshold.
         if missed < 15 and self.manual_mode_triggered:
             self.manual_mode_triggered = False
 

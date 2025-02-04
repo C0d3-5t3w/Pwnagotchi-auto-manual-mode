@@ -12,7 +12,7 @@ main.plugins.auto_manual_mode.enabled = true
 
 # And the link to the repo in config.toml amongst the list:
 
-https://github.com/C0d3-5t3w/Pwnagotchi-auto-manual-mode
+https://github.com/C0d3-5t3w/Pwnagotchi-auto-manual-mode/archive/refs/heads/main.zip
 
 # ENJOY!!! if you have any issues find and @ me in the pwnagotchi unofficial discord: https://discord.gg/wBgZPn6M
 

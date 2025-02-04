@@ -1,6 +1,6 @@
 # Pwnagotchi-auto-manual-mode
 
-Because i forget my little dude is with me when I get in the car and travel to fast
+Because i forget my little dude is with me when I get in the car and travel to fast. 😅
 
 # Put auto_manual_mode.py in:
 
